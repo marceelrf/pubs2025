@@ -1,5 +1,10 @@
 # pubs2025
 
+## Planning [3]
+- General Best Practices for Re-analysis;
+- Baseline funs for package;
+- Write Rust funs for tidyspec performance;
+
 ## In progress [10]
 - Paper Corote (Luis Justulin) - writing
 - miRs - Emershow (Willian Zambuzzi) - final results
