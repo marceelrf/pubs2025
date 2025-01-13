@@ -1,11 +1,12 @@
 # pubs2025
 
-## Planning [3]
+## Planning [4]
 - General Best Practices for Re-analysis;
 - Baseline funs for package;
 - Write Rust funs for tidyspec performance;
 
-## In progress [10]
+
+## In progress [11]
 - Paper Corote (Luis Justulin) - writing
 - miRs - Emershow (Willian Zambuzzi) - final results
 - tidyspec (Marcel Ferreira) - preliminary writing
@@ -16,6 +17,7 @@
 - paper metiloma (Willian Zambuzzi) - final results
 - Biomimetic synchrony: Platelet-Rich Plasma (PRP), cells, & biomaterials for bone regeneration (willian zambuzzi) - final writing
 - Differential plasticity of arterial and venous endothelial cell on driving osteoblastic phenotype (Willian Zambuzzi)
+- Paper Matheus Luquirini (Willian Zambuzzi);
 
 ## Submitted [5]
 - Thrα-Lcn2 interaction: potential pro-inflammatory pathways acting on the bone and adipogenic metabolism axis. (Willian Zambuzzi)
