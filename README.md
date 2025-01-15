@@ -1,6 +1,6 @@
 # pubs2025
 
-## Planning [4]
+## Planning [3]
 - General Best Practices for Re-analysis;
 - Baseline funs for package;
 - Write Rust funs for tidyspec performance;
@@ -25,3 +25,5 @@
 - Differentiation model of mesenchymal stem cells responding to lyophilized platelet-rich plasma in early cellular osteogenesis (Willian Zambuzzi);
 - Cytokines - Geovanna (Marcia)
 - Kirmapper (Erick Castelli)
+
+## Accepted [0]
