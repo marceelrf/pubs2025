@@ -19,7 +19,7 @@
 - Differential plasticity of arterial and venous endothelial cell on driving osteoblastic phenotype (Willian Zambuzzi)
 - Paper Matheus Luquirini (Willian Zambuzzi);
 
-## Submitted [5]
+## Submitted [4]
 - Thrα-Lcn2 interaction: potential pro-inflammatory pathways acting on the bone and adipogenic metabolism axis. (Willian Zambuzzi)
 - Gender-specific behavioral and nociceptive sensitivity in an animal model of autism induced by prenatal exposure to Lipopolysaccharide (Rodrigo)
 - Differentiation model of mesenchymal stem cells responding to lyophilized platelet-rich plasma in early cellular osteogenesis (Willian Zambuzzi);
