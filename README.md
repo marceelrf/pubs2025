@@ -25,5 +25,5 @@
 - Differentiation model of mesenchymal stem cells responding to lyophilized platelet-rich plasma in early cellular osteogenesis (Willian Zambuzzi);
 - Cytokines - Geovanna (Marcia)
 
-## Accepted [0]
+## Accepted [1]
 - Kirmapper (Erick Castelli)
