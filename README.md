@@ -24,6 +24,6 @@
 - Gender-specific behavioral and nociceptive sensitivity in an animal model of autism induced by prenatal exposure to Lipopolysaccharide (Rodrigo)
 - Differentiation model of mesenchymal stem cells responding to lyophilized platelet-rich plasma in early cellular osteogenesis (Willian Zambuzzi);
 - Cytokines - Geovanna (Marcia)
-- Kirmapper (Erick Castelli)
 
 ## Accepted [0]
+- Kirmapper (Erick Castelli)
