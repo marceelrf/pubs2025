@@ -26,4 +26,4 @@
 
 ## Accepted [2]
 - Kirmapper (Erick Castelli)
-- - Gender-specific behavioral and nociceptive sensitivity in an animal model of autism induced by prenatal exposure to Lipopolysaccharide (Rodrigo)
+- Gender-specific behavioral and nociceptive sensitivity in an animal model of autism induced by prenatal exposure to Lipopolysaccharide (Rodrigo)
