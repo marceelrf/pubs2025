@@ -6,10 +6,10 @@
 - Write Rust funs for tidyspec performance;
 
 
-## In progress [11]
+## In progress [12]
 - Paper Corote (Luis Justulin) - writing
 - miRs - Emershow (Willian Zambuzzi) - final results
-- tidyspec (Marcel Ferreira) - preliminary writing
+- tidyspec (Marcel Ferreira) - writing
 - Hottip seq Amanda (Willian Zambuzzi) - preliminar results
 - RNAseq - Luana preliminar results
 - RNAseq (Cintia & Flavia) - preliminar results
@@ -18,6 +18,7 @@
 - Biomimetic synchrony: Platelet-Rich Plasma (PRP), cells, & biomaterials for bone regeneration (willian zambuzzi) - final writing
 - Differential plasticity of arterial and venous endothelial cell on driving osteoblastic phenotype (Willian Zambuzzi)
 - Paper Matheus Luquirini (Willian Zambuzzi);
+- Proteomic (Flavia) - final writing;
 
 ## Submitted [3]
 - Thrα-Lcn2 interaction: potential pro-inflammatory pathways acting on the bone and adipogenic metabolism axis. (Willian Zambuzzi)
