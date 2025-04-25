@@ -11,7 +11,6 @@
 - miRs - Emershow (Willian Zambuzzi) - final results
 - tidyspec (Marcel Ferreira) - writing
 - Hottip seq Amanda (Willian Zambuzzi) - preliminar results
-- RNAseq - Luana preliminar results
 - RNAseq (Cintia & Flavia) - preliminar results
 - Paper Julia (Willian Zambuzzi) - final results
 - paper metiloma (Willian Zambuzzi) - final results
