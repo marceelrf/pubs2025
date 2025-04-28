@@ -1,9 +1,10 @@
 # pubs2025
 
-## Planning [3]
+## Planning [4]
 - General Best Practices for Re-analysis;
 - Baseline funs for package;
 - Write Rust funs for tidyspec performance;
+- osteoclust-core package;
 
 
 ## In progress [11]
