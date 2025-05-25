@@ -4,7 +4,7 @@
 - General Best Practices for Re-analysis;
 - Baseline funs for package;
 - Write Rust funs for tidyspec performance;
-- osteoclust-core package;
+- osteoclust-core package (app?);
 
 
 ## In progress [11]
