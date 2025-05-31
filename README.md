@@ -7,7 +7,7 @@
 - osteoclust-core package (app?);
 
 
-## In progress [11]
+## In progress [10]
 - Paper Corote (Luis Justulin) - writing
 - miRs - Emershow (Willian Zambuzzi) - final results
 - tidyspec (Marcel Ferreira) - writing
