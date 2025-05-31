@@ -19,15 +19,16 @@
 - Proteomic (Flavia) - final writing;
 - Paper Sofia (Luis Justulin) - final experiments;
 
-## Submitted [6]
+## Submitted [5]
 - Thrα-Lcn2 interaction: potential pro-inflammatory pathways acting on the bone and adipogenic metabolism axis. (Willian Zambuzzi)
 - Differentiation model of mesenchymal stem cells responding to lyophilized platelet-rich plasma in early cellular osteogenesis (Willian Zambuzzi);
 - Cytokines - Geovanna (Marcia)
 - Biomimetic synchrony: Platelet-Rich Plasma (PRP), cells, & biomaterials for bone regeneration (willian zambuzzi)
 - Differential plasticity of arterial and venous endothelial cell on driving osteoblastic phenotype (Willian Zambuzzi)
-- A Biochemical View on Intermittent Fasting Effects on Human Physiology – Not Always a Beneficial Strategy (Maikel)
 
-## Accepted [3]
+
+## Accepted [4]
 - Kirmapper (Erick Castelli)
 - Gender-specific behavioral and nociceptive sensitivity in an animal model of autism induced by prenatal exposure to Lipopolysaccharide (Rodrigo)
 - Dynamic ion-releasing biomaterials actively shapes the microenvironment for enhanced healing (Willian Zambuzzi)
+- A Biochemical View on Intermittent Fasting Effects on Human Physiology – Not Always a Beneficial Strategy (Maikel)
