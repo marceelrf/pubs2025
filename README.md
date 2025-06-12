@@ -5,6 +5,7 @@
 - Baseline funs for package;
 - Write Rust funs for tidyspec performance;
 - osteoclust-core package (app?);
+- spectral-bridges;
 
 
 ## In progress [10]
@@ -27,8 +28,9 @@
 - Differential plasticity of arterial and venous endothelial cell on driving osteoblastic phenotype (Willian Zambuzzi)
 
 
-## Accepted [4]
+## Accepted [5]
 - Kirmapper (Erick Castelli)
 - Gender-specific behavioral and nociceptive sensitivity in an animal model of autism induced by prenatal exposure to Lipopolysaccharide (Rodrigo)
 - Dynamic ion-releasing biomaterials actively shapes the microenvironment for enhanced healing (Willian Zambuzzi)
 - A Biochemical View on Intermittent Fasting Effects on Human Physiology – Not Always a Beneficial Strategy (Maikel)
+- tidyspec - CRAN package;
