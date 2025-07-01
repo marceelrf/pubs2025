@@ -19,7 +19,6 @@
 - paper metiloma (Willian Zambuzzi) - final results
 - Paper Matheus Luquirini (Willian Zambuzzi);
 - Proteomic (Flavia) - final writing;
-- Paper Sofia (Luis Justulin) - final experiments;
 
 ## Submitted [5]
 - Thrα-Lcn2 interaction: potential pro-inflammatory pathways acting on the bone and adipogenic metabolism axis. (Willian Zambuzzi)
@@ -27,6 +26,7 @@
 - Cytokines - Geovanna (Marcia)
 - Biomimetic synchrony: Platelet-Rich Plasma (PRP), cells, & biomaterials for bone regeneration (willian zambuzzi)
 - Differential plasticity of arterial and venous endothelial cell on driving osteoblastic phenotype (Willian Zambuzzi)
+- Omics-Based Molecular Signatures of Adrenal, Kidney, and Lung Development in Male Rat Offspring Exposed to Maternal Protein Restriction (Justulin)
 
 ## Accepted [5]
 - Kirmapper (Erick Castelli)
