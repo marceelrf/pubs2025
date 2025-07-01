@@ -20,7 +20,7 @@
 - Paper Matheus Luquirini (Willian Zambuzzi);
 - Proteomic (Flavia) - final writing;
 
-## Submitted [5]
+## Submitted [6]
 - Thrα-Lcn2 interaction: potential pro-inflammatory pathways acting on the bone and adipogenic metabolism axis. (Willian Zambuzzi)
 - Differentiation model of mesenchymal stem cells responding to lyophilized platelet-rich plasma in early cellular osteogenesis (Willian Zambuzzi);
 - Cytokines - Geovanna (Marcia)
