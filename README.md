@@ -1,12 +1,13 @@
 # pubs2025
 
-## Planning [6]
+## Planning [7]
 - General Best Practices for Re-analysis;
 - Baseline funs for package;
 - Write Rust funs for tidyspec performance;
 - osteoclust-core package (app?);
 - spectral-bridges;
 - Proline metabolism on bone healing and osteogenesis;
+- OCA2-HERC2 haplotypes with ONT data;
 
 
 ## In progress [10]
