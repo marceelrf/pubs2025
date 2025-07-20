@@ -8,6 +8,8 @@
 - spectral-bridges;
 - Proline metabolism on bone healing and osteogenesis;
 - OCA2-HERC2 haplotypes with ONT data;
+- Harmonizone scores - Kinases;
+- Immuno pathways on biomaterials adhesion;
 
 
 ## In progress [10]
