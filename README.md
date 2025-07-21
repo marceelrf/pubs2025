@@ -1,6 +1,6 @@
 # pubs2025
 
-## Planning [7]
+## Planning [9]
 - General Best Practices for Re-analysis;
 - Baseline funs for package;
 - Write Rust funs for tidyspec performance;
